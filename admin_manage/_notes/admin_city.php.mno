@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecCity" value="name:c_id;datatype:int,name:c_date;datatype:datetime,name:c_name;datatype:string" />
+	<infoitem key="UD_RecSearch" value="name:c_id;datatype:int,name:c_date;datatype:datetime,name:c_name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:level_id;datatype:int,name:seq;datatype:int,name:name;datatype:string,name:detail;datatype:string" />
+</info>

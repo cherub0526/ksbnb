@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecBanner" value="name:id;datatype:int,name:title;datatype:string,name:commerce;datatype:blob,name:uname;datatype:string,name:startdate;datatype:date,name:enddate;datatype:date,name:banner_url;datatype:blob,name:chained;datatype:string,name:chained_child;datatype:string,name:sorting;datatype:int,name:banner_type;datatype:int,name:banner_pic;datatype:blob,name:banner_pic2;datatype:blob,name:hits;datatype:int,name:price;datatype:int" />
+	<infoitem key="UD_RecDetail" value="name:b_id;datatype:int,name:adv_id;datatype:int,name:input_date;datatype:date,name:adv_title;datatype:string,name:adv_content;datatype:blob,name:adv_org;datatype:string,name:adv_date;datatype:date,name:adv_contact;datatype:string,name:adv_tel;datatype:string,name:adv_addr;datatype:string,name:adv_movie;datatype:blob,name:adv_pic;datatype:string,name:adv_url;datatype:string,name:adv_count;datatype:int" />
+</info>

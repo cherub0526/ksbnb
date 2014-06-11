@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecSearchBnb" value="name:a_id;datatype:int,name:a_name;datatype:string,name:a_area;datatype:int,name:a_zip;datatype:int,name:a_date;datatype:datetime,name:a_text;datatype:blob,name:a_images;datatype:blob" />
+	<infoitem key="UD_RecSearchActive" value="name:banner_id;datatype:int,name:level;datatype:int,name:banner_position;datatype:string,name:banner_type;datatype:string,name:banner_title;datatype:string,name:commerce;datatype:string,name:banner_pic;datatype:string,name:banner_pic2;datatype:string,name:banner_url;datatype:string,name:update;datatype:date,name:startdate;datatype:date,name:uname;datatype:string,name:downdate;datatype:int,name:class;datatype:string,name:count;datatype:int,name:fare_id;datatype:int,name:sorting;datatype:int,name:host;datatype:blob,name:t_id;datatype:string,name:site;datatype:int" />
+</info>

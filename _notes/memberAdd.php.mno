@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_admin_mail" value="name:mail;datatype:string" />
+	<infoitem key="UD_post_agree" value="name:post_agree_id;datatype:int,name:post_content;datatype:blob" />
+</info>

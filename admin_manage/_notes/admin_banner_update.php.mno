@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_banner_position" value="name:type_id;datatype:int,name:type_name;datatype:string,name:type_pixel;datatype:int,name:type_price;datatype:int,name:chained;datatype:string,name:class;datatype:int,name:contion;datatype:string" />
+	<infoitem key="UD_RecUpdate" value="name:banner_id;datatype:int,name:level;datatype:int,name:banner_position;datatype:string,name:banner_type;datatype:string,name:banner_title;datatype:string,name:commerce;datatype:string,name:banner_pic;datatype:string,name:banner_pic2;datatype:string,name:banner_url;datatype:string,name:update;datatype:date,name:startdate;datatype:date,name:uname;datatype:string,name:downdate;datatype:int,name:class;datatype:string,name:count;datatype:int,name:fare_id;datatype:int,name:sorting;datatype:int,name:host;datatype:blob,name:t_id;datatype:string,name:site;datatype:int" />
+	<infoitem key="UD_RecPosition" value="name:type_id;datatype:int,name:type_name;datatype:string,name:type_pixel;datatype:int,name:type_price;datatype:int,name:chained;datatype:string,name:class;datatype:int,name:contion;datatype:string" />
+	<infoitem key="UD_RecZone" value="name:id;datatype:int,name:c_zone;datatype:string,name:c_zip;datatype:string,name:c_name;datatype:string" />
+</info>

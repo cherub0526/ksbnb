@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecZip" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecContent" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecZipCode" value="name:b_id;datatype:int,name:b_name;datatype:string,name:b_area;datatype:int,name:b_zip;datatype:int,name:b_url;datatype:blob" />
+	<infoitem key="UD_Recordset1" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecBanner" value="name:id;datatype:int,name:banner_id;datatype:int,name:level;datatype:string,name:position;datatype:string,name:class;datatype:string,name:sorting;datatype:int,name:on;datatype:int" />
+	<infoitem key="UD_RecDetail" value="name:b_id;datatype:int,name:adv_id;datatype:int,name:input_date;datatype:date,name:adv_title;datatype:string,name:adv_content;datatype:blob,name:adv_org;datatype:string,name:adv_date;datatype:date,name:adv_contact;datatype:string,name:adv_tel;datatype:string,name:adv_addr;datatype:string,name:adv_movie;datatype:blob,name:adv_pic;datatype:string,name:adv_url;datatype:string,name:adv_count;datatype:int" />
+</info>

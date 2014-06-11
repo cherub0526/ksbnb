@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecPosition" value="name:Name;datatype:string,name:AutoNo;datatype:int" />
+</info>

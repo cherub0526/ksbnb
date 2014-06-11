@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:info;datatype:blob,name:info_zh;datatype:string,name:search_method;datatype:int,name:detail;datatype:blob,name:attribute_1;datatype:string,name:attribute_2;datatype:string,name:attribute_3;datatype:string,name:attribute_4;datatype:string,name:attribute_5;datatype:string,name:attribute_6;datatype:string,name:attribute_7;datatype:string,name:attribute_8;datatype:string,name:attribute_9;datatype:string,name:attribute_10;datatype:string,name:unit_name;datatype:string" />
+	<infoitem key="UD_RecType" value="name:id;datatype:int,name:info;datatype:blob,name:info_zh;datatype:string,name:search_method;datatype:int,name:detail;datatype:blob,name:attribute_1;datatype:string,name:attribute_2;datatype:string,name:attribute_3;datatype:string,name:attribute_4;datatype:string,name:attribute_5;datatype:string,name:attribute_6;datatype:string,name:attribute_7;datatype:string,name:attribute_8;datatype:string,name:attribute_9;datatype:string,name:attribute_10;datatype:string,name:unit_name;datatype:string" />
+</info>

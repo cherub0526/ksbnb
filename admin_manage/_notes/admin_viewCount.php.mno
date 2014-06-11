@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecMember" value="name:view_id;datatype:int,name:view_time;datatype:datetime,name:view_ip;datatype:string,name:view_os;datatype:string,name:view_browser;datatype:string" />
+	<infoitem key="UD_RecSearch" value="name:view_id;datatype:int,name:view_time;datatype:datetime,name:view_ip;datatype:string,name:view_os;datatype:string,name:view_browser;datatype:string" />
+</info>

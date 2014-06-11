@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recbnb" value="name:n_id;datatype:int,name:level1_id;datatype:int,name:level2_id;datatype:int,name:n_name;datatype:string,name:n_detail;datatype:blob,name:date;datatype:date,name:b_pic;datatype:string,name:big_pic;datatype:string,name:hot;datatype:string,name:discrict;datatype:string,name:reporter;datatype:string,name:times;datatype:int,name:area;datatype:string,name:address;datatype:string,name:newspic_title;datatype:string,name:r_date;datatype:date,name:post_time;datatype:datetime,name:place;datatype:string,name:v_id;datatype:string,name:price;datatype:real,name:Description;datatype:string" />
+</info>

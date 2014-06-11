@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecSearchBnb" value="name:n_id;datatype:int,name:level1_id;datatype:int,name:level2_id;datatype:int,name:n_name;datatype:string,name:n_detail;datatype:blob,name:date;datatype:date,name:b_pic;datatype:string,name:big_pic;datatype:string,name:hot;datatype:string,name:discrict;datatype:string,name:reporter;datatype:string,name:times;datatype:int,name:area;datatype:string,name:address;datatype:string,name:newspic_title;datatype:string,name:r_date;datatype:date,name:post_time;datatype:datetime,name:place;datatype:string,name:v_id;datatype:string,name:price;datatype:real,name:Description;datatype:string" />
+	<infoitem key="UD_RecProductDetail" value="name:n_id;datatype:int,name:v_id;datatype:string,name:detail;datatype:blob" />
+	<infoitem key="UD_RecVideo" value="name:productvedio_id;datatype:int,name:product_id;datatype:int,name:product_type;datatype:int,name:hot;datatype:int,name:productvedio_url;datatype:string,name:productvedio_title;datatype:blob,name:date;datatype:date,name:times;datatype:int,name:note;datatype:string,name:vdelete;datatype:int,name:less;datatype:blob" />
+	<infoitem key="UD_RecPic" value="name:productpic_id;datatype:int,name:product_id;datatype:int,name:product_pic;datatype:string,name:product_title;datatype:string" />
+</info>

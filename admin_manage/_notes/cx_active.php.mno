@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecZip" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecCity" value="name:c_id;datatype:int,name:c_date;datatype:datetime,name:c_name;datatype:string" />
+</info>

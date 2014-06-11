@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecBanner" value="name:id;datatype:int,name:banner_id;datatype:int,name:level;datatype:string,name:position;datatype:string,name:class;datatype:string,name:sorting;datatype:int,name:on;datatype:int" />
+</info>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecCity" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecBnb" value="name:l_id;datatype:int,name:l_title;datatype:string,name:l_area;datatype:int,name:l_zip;datatype:int,name:l_text;datatype:blob,name:l_url;datatype:blob,name:l_images;datatype:blob,name:l_date;datatype:datetime,name:l_hits;datatype:int" />
+	<infoitem key="UD_RecSearch" value="name:l_id;datatype:int,name:l_title;datatype:string,name:l_area;datatype:int,name:l_zip;datatype:int,name:l_text;datatype:blob,name:l_url;datatype:blob,name:l_images;datatype:blob,name:l_date;datatype:datetime,name:l_hits;datatype:int" />
+	<infoitem key="UD_RecLandscape" value="name:l_id;datatype:int,name:l_title;datatype:string,name:l_area;datatype:int,name:l_zip;datatype:int,name:l_text;datatype:blob,name:l_url;datatype:blob,name:l_images;datatype:blob,name:l_date;datatype:datetime,name:l_hits;datatype:int" />
+</info>

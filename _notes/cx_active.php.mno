@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecActive" value="name:a_id;datatype:int,name:a_name;datatype:string,name:a_area;datatype:int,name:a_zip;datatype:int,name:a_text;datatype:blob,name:a_images;datatype:blob" />
+</info>

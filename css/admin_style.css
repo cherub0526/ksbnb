@@ -1,0 +1,48 @@
+#cx_content #login table {
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+#cx_content #cx_c_left {
+	float: left;
+	width: 14%;
+	background-color: #EEE;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+#cx_content #cx_c_right {
+	float: left;
+	width: 840px;
+	margin: 5px;
+}
+#cx_c_right iframe {
+	float: left;
+	width: 835px;
+}
+.cx_admin_table
+{
+	background-color: #f3f3f3;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #ffffff;
+	border-bottom-color: #dcdcdc;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #ffffff;
+	border-left-color: #dcdcdc;
+	color: #000;
+	font-size: 12px;
+	line-height: 20px;
+	font-family:"Microsoft JhengHei","微軟正黑體","PMingLiu","新細明體";
+}

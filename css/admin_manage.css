@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body {
+	width:821px;
+	float: left;
+}
+#top_nav {
+	float: left;
+	height: 28px;
+	width: 821px;
+}
+#top_nav table tr td img {
+	margin-right: 15px;
+}
+#content {
+	float: left;
+	width: 821px;
+}
+.cx_admin_table
+{
+	background-color: #f3f3f3;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #ffffff;
+	border-bottom-color: #dcdcdc;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #ffffff;
+	border-left-color: #dcdcdc;
+	color: #000;
+	font-size: 12px;
+	line-height: 20px;
+	font-family:"Microsoft JhengHei","微軟正黑體","PMingLiu","新細明體";
+}

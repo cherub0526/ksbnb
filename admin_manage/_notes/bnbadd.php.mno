@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecCity" value="name:level_id;datatype:int,name:seq;datatype:int,name:name;datatype:string,name:detail;datatype:string" />
+</info>

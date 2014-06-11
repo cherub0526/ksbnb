@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecCity" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecZip" value="name:Id;datatype:int,name:City;datatype:string,name:Area;datatype:string,name:ZipCode;datatype:string" />
+	<infoitem key="UD_RecEconomy" value="name:b_id;datatype:int,name:b_name;datatype:string,name:b_area;datatype:int,name:b_zip;datatype:int,name:b_tel1;datatype:int,name:b_tel2;datatype:int,name:b_url;datatype:blob,name:b_manager;datatype:string,name:b_email;datatype:string,name:b_address;datatype:blob,name:b_economy;datatype:blob,name:b_images;datatype:blob" />
+</info>

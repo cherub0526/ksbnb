@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecPosition" value="name:Name;datatype:string,name:AutoNo;datatype:int" />
+	<infoitem key="UD_RecZone" value="name:CNo;datatype:int,name:Name;datatype:string,name:Post;datatype:string" />
+</info>

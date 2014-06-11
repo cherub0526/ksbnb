@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:level2_id;datatype:int,name:level1_id;datatype:int,name:seq;datatype:int,name:name;datatype:string,name:detail;datatype:string,name:level1_show;datatype:string,name:main_show;datatype:string,name:rmail;datatype:string,name:post;datatype:int,name:ex;datatype:string" />
+</info>

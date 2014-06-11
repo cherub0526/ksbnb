@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_banner_position" value="name:type_id;datatype:int,name:type_name;datatype:string,name:type_pixel;datatype:int,name:type_price;datatype:int,name:chained;datatype:string,name:class;datatype:int,name:contion;datatype:string" />
+</info>
